@@ -1,0 +1,35 @@
+nav{
+    width: 150%;
+    text-align:right;
+    padding: 0;
+    padding-right: 5em;
+}
+
+nav > ul{
+    margin: 0 auto;
+    display: inline-block;
+    font-size:x-large;
+    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    list-style-type: none;
+    text-align: center;
+    color: #acf2fc;
+}
+
+nav ul a:hover, nav ul a:focus {
+    color: #007193;
+    text-decoration: none;
+    outline: none;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #acf2fc;
+    background-color: #004c63;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+}
+

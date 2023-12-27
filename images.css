@@ -1,0 +1,15 @@
+.logo{
+    width:25%;
+    height:25%;
+    padding-left: 20%;
+}
+
+.logoText{
+    width:30%;
+    height:30%;
+    padding-top: 9%;
+}
+
+.logoFull{
+    max-width: 100%;
+}
